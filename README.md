@@ -56,24 +56,34 @@ These allow non-technical users to easily explore the data and draw conclusions.
 #### : KPI Cards in Dashboard
 KPI
 DAX Measure Used
+
 🌍 Avg Life Expectancy
 AvgLifeExpectancy
+
 👶 Avg Infant Deaths
 AvgInfantDeaths
+
 💀 Avg Adult Mortality
 AvgAdultMortality
+
 👥 Total Population
 TotalPopulation
+
 📚 Avg Schooling Years
 AvgSchoolingYears
+
 💉 Vaccination Index
 VaccinationIndex
+
 💰 Avg GDP
 AvgGDP
+
 🧮 GDP per Capita
 GDPPerCapita
+
 🏥 Health Spend (Total)
 HealthExpenditureAbsolute
+
 📉 Avg HIV Rate
 AvgHIVRate
 
